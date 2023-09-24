@@ -1,0 +1,11 @@
+{
+	"account": {
+		"username": "your_username_on_chess.com",
+		"password": "your_password_on_chess.com"
+	},
+	"chess": {
+		"go_move_time": 1000,
+		"use_local_engine": false,
+		"path": "./stockfish-windows-x86-64-avx2.exe"
+	}
+}
